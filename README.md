@@ -1,17 +1,12 @@
 # zilch_workout
 
-A new Flutter project.
+A Flutter project to control smart bike trainers such as TACX and Wahoo using Bluetooth from smartphone for both iOS and Android.
 
-## Getting Started
+Includes:
+Reading sensors from BLE and ANT+
+Creating and syncing workout in cloud
+Controlling trainer to both ERG or normal mode
+Saving and exporting workout data
+Export to Strava
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # zilch_workout
